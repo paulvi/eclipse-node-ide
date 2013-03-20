@@ -14,11 +14,11 @@ The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(
 
 ### In a few words
 
-Just import 'NodeIDE.p2f' file provided.
+Just import "EclipseNodeIDE-x.x.p2f" file [provided](https://github.com/downloads/PaulVI/eclipse-node-ide/EclipseNodeIDE-0.2.p2f).
 
 ### Detailed 
 
-Get latest Eclipse from [http://www.eclipse.org/downloads/](http://www.eclipse.org/downloads/).  
+   1) Get latest Eclipse from [http://www.eclipse.org/downloads/](http://www.eclipse.org/downloads/).  
 Recommended is [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr2),
 that contains Eclipse web tools.
 
@@ -28,21 +28,21 @@ It comes already with EGit, so you already have tool to work with [GitHub](https
 
 ![Eclipse-About.png](Pictures/Eclipse-About.png)
 
-Get NodeIDE.p2f and save it.
+   2) Get NodeIDE.p2f and save it.
 
-Then in Eclipse File -> Import \ Install Software Items from File
+   3) Then in Eclipse File -> Import \ Install Software Items from File
 
 ![Eclipse-Import-Install.png](Pictures/Eclipse-Import-Install.png)
 
-Select file and items you want to install.
+   4) Select file and items you want to install.
 
 ![Eclipse-Import-Install-NodeIDE.png](Pictures/Eclipse-Import-Install-NodeIDE.png)
 
-Review and confirm installed items.
+   5) Review and confirm installed items.
 
 ![Eclipse-Import-Install-NodeIDE-2-resolved.png](Pictures/Eclipse-Import-Install-NodeIDE-2-resolved.png)
 
-After installation you have added icons in Help -> About Eclipse
+After installation you have more icons in Help -> About Eclipse
 
 ![Eclipse-About.png](Pictures/Eclipse-About-2.png)
 
