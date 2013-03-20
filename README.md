@@ -14,7 +14,7 @@ The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(
 
 ### In a few words
 
-Just import "EclipseNodeIDE-x.x.p2f" file [provided](https://github.com/downloads/PaulVI/eclipse-node-ide/EclipseNodeIDE-0.2.p2f).
+Just import "EclipseNodeIDE-x.x.p2f" file [provided](http://cloud.github.com/downloads/PaulVI/eclipse-node-ide/EclipseNodeIDE-0.2.p2f).
 
 ### Detailed 
 
