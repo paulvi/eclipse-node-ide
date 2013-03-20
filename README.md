@@ -14,7 +14,7 @@ The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(
 
 ### In a few words
 
-Just import "EclipseNodeIDE-x.x.p2f" file [provided](http://cloud.github.com/downloads/PaulVI/eclipse-node-ide/EclipseNodeIDE-0.2.p2f).
+Just import "EclipseNodeIDE-x.x.p2f" file provided.
 
 ### Detailed 
 
@@ -72,6 +72,10 @@ Current version is 0.2, the same as [Nodeclipse-1](http://tomotaro1065.github.co
 You can help by developing plugins, or proposing components to use.
 
 Node.js framework developer please write us, if you want Eclipse Node IDE to support your framework.
+
+TODO:
+[provided link](http://github.com/downloads/PaulVI/eclipse-node-ide/EclipseNodeIDE-0.2.p2f). 
+([how to link](http://stackoverflow.com/questions/13441720/download-binary-file-from-github-using-java))
 
 ## Contacts
 
