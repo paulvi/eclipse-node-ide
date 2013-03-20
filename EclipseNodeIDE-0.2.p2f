@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='5'>
+    <iu id='org.chromium.sdk.feature.group' name='ChromeDevTools SDK' version='0.3.9.201302091448'>
+      <repositories size='1'>
+        <repository location='http://www.tomotaro1065.com/nodeclipse/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.chromium.debug.feature.group' name='Chromium JavaScript Remote Debugger' version='0.3.9.201302091448'>
+      <repositories size='1'>
+        <repository location='http://www.tomotaro1065.com/nodeclipse/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='com.eclipsesource.jshint.feature.feature.group' name='JSHint Eclipse Integration' version='0.9.5.20121003-2051'>
+      <repositories size='1'>
+        <repository location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='markdown.editor.feature.feature.group' name='Markdown Editor' version='0.2.3'>
+      <repositories size='1'>
+        <repository location='http://winterwell.com/software/updatesite/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.feature.group' name='Nodeclipse' version='0.2.0.201302091448'>
+      <repositories size='1'>
+        <repository location='http://www.tomotaro1065.com/nodeclipse/updates/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
