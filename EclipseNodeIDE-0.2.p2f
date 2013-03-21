@@ -12,7 +12,7 @@
         <repository location='http://www.tomotaro1065.com/nodeclipse/updates/'/>
       </repositories>
     </iu>
-    <iu id='com.eclipsesource.jshint.feature.feature.group' name='JSHint Eclipse Integration' version='0.9.5.20121003-2051'>
+    <iu id='com.eclipsesource.jshint.feature.feature.group' name='JSHint Eclipse Integration' version='0.9.6.20130319-2128'>
       <repositories size='1'>
         <repository location='http://github.eclipsesource.com/jshint-eclipse/updates/'/>
       </repositories>
