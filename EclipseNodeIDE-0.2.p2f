@@ -1,4 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--  
+[Eclipse Node.js IDE](https://github.com/PaulVI/eclipse-node-ide) v0.2.2
+
+Copyright (C) 2013, by [Paul Verest](https://github.com/PaulVI/blog#blog) at [Funshion.com](http://www.funshion.com/english/index.html)
+
+You can do whatever you want with this projects as long as you keep this license notice.
+
+For example, email this file to a friend. Because this is all what is needed to start Eclipse Node.js IDE installation!
+
+Please use the tag "#enide" to twit about.
+-->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
   <ius size='5'>
