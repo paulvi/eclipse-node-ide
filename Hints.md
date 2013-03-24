@@ -17,3 +17,16 @@ Now you can now open JSON files with the JavaScript editor (with syntax highligh
  use the formatter and set your favorite color theme with Eclipse Color Theme.
 
 ![Eclipse-Preferences-FileAssociations.png](Pictures/Eclipse-Preferences-FileAssociations.png)
+
+
+## Launch npm
+
+run as ->  npm....
+
+![run-npm-at-project.jpg](Pictures/run-npm-at-project.jpg)
+
+See also [npm documentation](https://npmjs.org/doc/)
+
+
+Thank to George Pang for question.
+
