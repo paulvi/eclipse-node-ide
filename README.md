@@ -19,6 +19,12 @@ The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(
 Check out [great article](http://www.tomotaro1065.com/nodeclipse/)
  and [watch video](http://tomotaro1065.github.com/nodeclipse/index2.htm).
  (Go to 2:00 time to skip installation and see how to work within Eclipse.)  
+ 
+See also Hints.md for
+
+* JSON Editor
+* Launch npm
+* Connect Eclipse to GitHub issues 
 
 ## Installation
 
@@ -112,6 +118,18 @@ Should you report a [bug](https://github.com/PaulVI/eclipse-node-ide/issues), pl
 
 * A detailed description of the steps necessary to reproduce the problem.
 * The '.log' file from the directory '.metadata' in your workspace.
+
+<!-- 
+http://stackoverflow.com/privileges/create-tags
+
+* How do I? -- StackOverflow!
+* I got this error, why? -- StackOverflow!
+* I got this error and I'm sure it's a bug -- file an issue!
+* I have an idea/request -- file an issue!
+* Why do you? -- the mailing list!
+* When will you? -- the mailing list! 
+-->
+
 
 ## For Bloggers and Users of Twitter, Flickr, LinkedIn, Weibo etc.
 

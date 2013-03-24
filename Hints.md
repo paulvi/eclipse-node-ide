@@ -30,3 +30,19 @@ See also [npm documentation](https://npmjs.org/doc/)
 
 Thank to George Pang for question.
 
+## Connect Eclipse to GitHub issues
+
+Eclipse Juno 4.2.2 come with EGit and GitHub support, that includes Mylyn GitHub Connector
+
+![Mylyn-Add-Task-Repository.png](Pictures/Mylyn-Add-Task-Repository.png)
+
+![Mylyn-Add-Task-Repository-Credentials.png](Pictures/Mylyn-Add-Task-Repository-Credentials.png)
+
+You need to add at least 1 query
+
+![Mylyn-Query-Add.png](Pictures/Mylyn-Query-Add.png)
+
+![Mylyn-Result.png](Pictures/Mylyn-Result.png)
+
+
+
