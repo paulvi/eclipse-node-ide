@@ -41,8 +41,11 @@ Recommended is [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downl
  Juno (4.2) SR2,
 that contains Eclipse web tools.
 
-(I have also tried to install on [Eclipse for Testers](http://www.eclipse.org/downloads/packages/eclipse-testers/junosr2),
- The smallest Eclipse distribution, just 95 MB)
+(I have also succeeded to install on
+
+* [Eclipse for Testers](http://www.eclipse.org/downloads/packages/eclipse-testers/junosr2),
+ the smallest Eclipse distribution, just 95 MB.
+* [Spring Tool Suite (STS)](http://www.springsource.org/sts) 3.2.0.RELEASE )
 
 ![Eclipse-Welcome.png](Pictures/Eclipse-Welcome.png) 
 
@@ -116,6 +119,7 @@ Eclipse Node.js IDE (Enide) by [Paul Verest](mailto:paul.verest@live.com?subject
 
 Should you report a [bug](https://github.com/PaulVI/eclipse-node-ide/issues), please include the following:
 
+* Eclipse version number (like 4.2.2 or 3.8.0)
 * A detailed description of the steps necessary to reproduce the problem.
 * The '.log' file from the directory '.metadata' in your workspace.
 

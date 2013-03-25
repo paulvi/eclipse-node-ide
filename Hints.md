@@ -21,7 +21,9 @@ Now you can now open JSON files with the JavaScript editor (with syntax highligh
 
 ## Launch npm
 
-run as ->  npm....
+1. (Switch to Node perspective)
+
+2. run as ->  npm....
 
 ![run-npm-at-project.jpg](Pictures/run-npm-at-project.jpg)
 

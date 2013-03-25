@@ -18,6 +18,9 @@ http://eclipsecolorthemes.org/?view=plugin
 Eclipse Shelled
 http://sourceforge.net/apps/trac/shelled/ 
 
+# Researching
+
+Everything below is more like research, contribution needed
 
 ## JSDoc, JSDuck or what ?
 
@@ -62,4 +65,9 @@ http://modeling-languages.com/uml-tools-textual-notations-define-uml-models/
 ### In Web 
 
 http://www.websequencediagrams.com/
+
+## Jade support
+
+[Eclipse plugin for Jade (Node.js template engine)](http://stackoverflow.com/questions/15610410/eclipse-plugin-for-jade-node-js-template-engine/15610469)
+
 
