@@ -3,20 +3,27 @@
 
 add desired features here...
 
+### 0.2
+
+Eclipse color theme:
+http://eclipsecolorthemes.org/?view=plugin 
+ 
+Update site: http://eclipse-color-theme.github.com/update 
+ 
+Eclipse Shelled
+http://sourceforge.net/apps/trac/shelled/ 
+
+Update site: https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update
+
 ### 0.3 (April-May 2013)
 
 Is scheduled to come together with NodeEclipse 0.3
 
 ### 0.4 (TBD)
 
-## 
+## Next
 
-Eclipse color theme:
-http://eclipsecolorthemes.org/?view=plugin 
- 
- 
-Eclipse Shelled
-http://sourceforge.net/apps/trac/shelled/ 
+add here ...
 
 # Researching
 
@@ -66,8 +73,12 @@ http://modeling-languages.com/uml-tools-textual-notations-define-uml-models/
 
 http://www.websequencediagrams.com/
 
-## Jade support
+## Templating
+
+### Jade support
 
 [Eclipse plugin for Jade (Node.js template engine)](http://stackoverflow.com/questions/15610410/eclipse-plugin-for-jade-node-js-template-engine/15610469)
 
+### Jade alternatives
 
+[Natural Templating .html (like Thymeleaf) for Node.js](http://stackoverflow.com/questions/15652602/natural-templating-html-like-thymeleaf-for-node-js)

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='2'>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='0.12.0.201207240713'>
+      <repositories size='1'>
+        <repository location='http://eclipse-color-theme.github.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.2'>
+      <repositories size='1'>
+        <repository location='https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>

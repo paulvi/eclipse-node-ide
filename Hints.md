@@ -46,5 +46,8 @@ You need to add at least 1 query
 
 ![Mylyn-Result.png](Pictures/Mylyn-Result.png)
 
+## Shell script support
 
+Install Eclipse-addons.p2f
 
+![Shell-script-support.PNG](Pictures/Shell-script-support.PNG)

@@ -13,6 +13,8 @@ The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(
 ## Features
 
 ![Eclipse-Import-Install-NodeIDE.png](Pictures/Eclipse-Import-Install-NodeIDE.png)
+
+Shell Script support (see Hints.md)
  
 ## Usage
 
@@ -33,6 +35,9 @@ See also Hints.md for
 Just import "EclipseNodeIDE-x.x.p2f" file provided.
 
 ![File-Provided.png](Pictures/File-Provided.png)
+
+Note: if it fails for any reason, you can still install plugins that you need one by one.
+Just use <code>repository location=</code> value as update site in Help -> Install New Software. 
 
 ### Detailed 
 
@@ -114,17 +119,9 @@ Help needed! Please [contact](#contacts) if you want to help or know anything he
 
 Reminder: This project is set of plugins, if you have question about functioning of a plugin, please look for the project contacts. 
 
-Eclipse Node.js IDE (Enide) by [Paul Verest](mailto:paul.verest@live.com?subject=Enide - Question
-&body=I have pressed link in README.md&attachment="c:\a.bmp")
-
-Should you report a [bug](https://github.com/PaulVI/eclipse-node-ide/issues), please include the following:
-
-* Eclipse version number (like 4.2.2 or 3.8.0)
-* A detailed description of the steps necessary to reproduce the problem.
-* The '.log' file from the directory '.metadata' in your workspace.
-
 <!-- 
 http://stackoverflow.com/privileges/create-tags
+-->
 
 * How do I? -- StackOverflow!
 * I got this error, why? -- StackOverflow!
@@ -132,15 +129,27 @@ http://stackoverflow.com/privileges/create-tags
 * I have an idea/request -- file an issue!
 * Why do you? -- the mailing list!
 * When will you? -- the mailing list! 
--->
 
+Should you report a [bug](https://github.com/PaulVI/eclipse-node-ide/issues), please include the following:
+
+* Eclipse version number (like 4.2.2 or 3.8.0)
+* A detailed description of the steps necessary to reproduce the problem.
+* The '.log' file from the directory '.metadata' in your workspace.
+
+Eclipse Node.js IDE (Enide) by [Paul Verest](mailto:paul.verest@live.com?subject=Enide - Question
+&body=I have pressed link in README.md&attachment="c:\a.bmp")
+
+If you want to contribute and actively work together, then [email](mailto:paul.verest@live.com?subject=Enide - Development
+&body=I want to contribute to Eclipse Node.js IDE&attachment="c:\a.bmp")  
+Skype pverest  
+QQ 908781544  
 
 ## For Bloggers and Users of Twitter, Flickr, LinkedIn, Weibo etc.
 
 In case you plan to blog or tweet about the Eclipse Node.js IDE, please use the tag "#enide"
  in order to make it easier to find all the comments and pictures. Thanks a lot for telling the world about the project!  
   | 请用#enide#标签微博一下。  
-  | Por favor, use etiqueta #enide  
-  | なじるする＃enideタグを使用してください。   
+  | Por favor, utilizar etiqueta #enide  
+  | ツイートする時は、＃enide タグを使用してください。   
   | Bitte benutzen Sie tag #enide um zu twiten.
 
