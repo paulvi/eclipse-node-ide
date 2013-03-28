@@ -34,6 +34,8 @@ See also Hints.md for
 
 Just import "EclipseNodeIDE-x.x.p2f" file [provided](https://raw.github.com/PaulVI/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f).
 
+File -> Import \ Install Software Items from File
+
 ![File-Provided.png](Pictures/File-Provided.png)
 
 Note: if it fails for any reason, you can still install plugins that you need one by one.
