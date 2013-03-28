@@ -32,7 +32,7 @@ See also Hints.md for
 
 ### In a few words
 
-Just import "EclipseNodeIDE-x.x.p2f" file provided.
+Just import "EclipseNodeIDE-x.x.p2f" file [provided](https://raw.github.com/PaulVI/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f).
 
 ![File-Provided.png](Pictures/File-Provided.png)
 
@@ -105,14 +105,17 @@ You can do whatever you want with this projects as long as you keep this license
 ## Status
 
 Current version is 0.2, the same as [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/).
+New project development home is [Nodeclipse organization](https://github.com/Nodeclipse/)
 You can help by developing plugins, or proposing components to use.
 
-Node.js framework developer please write us, if you want Eclipse Node IDE to support your framework.
+Node.js framework developers, please write us, if you want Eclipse Node IDE to support your framework.
 
-TODO:
+<!--
+DONE:
 [provided link](http://github.com/downloads/PaulVI/eclipse-node-ide/EclipseNodeIDE-0.2.p2f). 
 ([how to link](http://stackoverflow.com/questions/13441720/download-binary-file-from-github-using-java))
-
+ -->
+ 
 Help needed! Please [contact](#contacts) if you want to help or know anything helpful for JavaScript Development in Eclipse.
 
 ## Contacts
