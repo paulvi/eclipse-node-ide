@@ -1,15 +1,13 @@
-# ATTENSION 
+# Eclipse Node.js IDE
+
+[Enide](http://en.wikipedia.org/wiki/Enide): will you love me forever?
+
+![nodeclipse-logo](nodeclipse-logo-rough.png) 
 
 Moved from [https://github.com/PaulVI/eclipse-node-ide](https://github.com/PaulVI/eclipse-node-ide)
  to [https://github.com/Nodeclipse/eclipse-node-ide](https://github.com/Nodeclipse/eclipse-node-ide) .
 
 Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog) for latest updates.
-	
-# Eclipse Node.js IDE
-
-![nodeclipse-logo](nodeclipse-logo-rough.png) 
-
-[Enide](http://en.wikipedia.org/wiki/Enide): will you love me forever?
 
 ## Eclipse Node IDE
 
