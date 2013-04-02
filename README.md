@@ -1,3 +1,10 @@
+# ATTENSION 
+
+Moved from [https://github.com/PaulVI/eclipse-node-ide](https://github.com/PaulVI/eclipse-node-ide)
+ to [https://github.com/Nodeclipse/eclipse-node-ide](https://github.com/Nodeclipse/eclipse-node-ide) .
+
+Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog) for latest updates.
+	
 # Eclipse Node.js IDE
 
 ![nodeclipse-logo](nodeclipse-logo-rough.png) 
