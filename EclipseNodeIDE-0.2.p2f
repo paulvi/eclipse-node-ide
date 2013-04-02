@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--  
-[Eclipse Node.js IDE](https://github.com/PaulVI/eclipse-node-ide) v0.2.2
+[Eclipse Node.js IDE](https://github.com/PaulVI/eclipse-node-ide) v0.2.3
 
 Copyright (C) 2013, by [Paul Verest](https://github.com/PaulVI/blog#blog) at [Funshion.com](http://www.funshion.com/english/index.html)
 
@@ -14,7 +14,7 @@ Please use the tag "#enide" to twit about.
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='5'>
+  <ius size='6'>
     <iu id='org.chromium.sdk.feature.group' name='ChromeDevTools SDK' version='0.3.9.201302091448'>
       <repositories size='1'>
         <repository location='http://www.tomotaro1065.com/nodeclipse/updates/'/>
@@ -40,5 +40,10 @@ Please use the tag "#enide" to twit about.
         <repository location='http://www.tomotaro1065.com/nodeclipse/updates/'/>
       </repositories>
     </iu>
+    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.2'>
+    <repositories size='1'>
+      <repository location='https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update'/>
+    </repositories>
+	</iu>
   </ius>
 </p2f>

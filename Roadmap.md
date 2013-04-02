@@ -1,19 +1,14 @@
 
-# Roadmap
+# Changelog
 
-add desired features here...
+### 0.2.3
 
-### 0.2
-
-Eclipse color theme:
-http://eclipsecolorthemes.org/?view=plugin 
- 
-Update site: http://eclipse-color-theme.github.com/update 
- 
 Eclipse Shelled
 http://sourceforge.net/apps/trac/shelled/ 
 
 Update site: https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update
+
+# Roadmap
 
 ### 0.3 (April-May 2013)
 
@@ -23,7 +18,12 @@ Is scheduled to come together with NodeEclipse 0.3
 
 ## Next
 
-add here ...
+Eclipse color theme:
+http://eclipsecolorthemes.org/?view=plugin 
+ 
+Update site: http://eclipse-color-theme.github.com/update 
+ 
+add desired features here...
 
 # Researching
 
