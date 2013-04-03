@@ -11,7 +11,7 @@ Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)
 
 ## Eclipse Node IDE
 
-[Eclipse Node IDE](https://github.com/PaulVI/eclipse-node-ide) is set of plugins for Eclipse IDE to help you with Node.js development.
+[Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide) is set of plugins for Eclipse IDE to help you with Node.js development.
 The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(sources)](https://github.com/tomotaro1065/nodeclipse),
  that is responsible for creation and debugging of Node.js applications.
 
@@ -117,7 +117,7 @@ You can help by developing used plugins, or proposing new plugins/components.
 
 <!--
 DONE:
-[provided link](http://github.com/downloads/PaulVI/eclipse-node-ide/EclipseNodeIDE-0.2.p2f). 
+[provided link](http://github.com/downloads/Nodeclipse/eclipse-node-ide/EclipseNodeIDE-0.2.p2f). 
 ([how to link](http://stackoverflow.com/questions/13441720/download-binary-file-from-github-using-java))
  -->
  
