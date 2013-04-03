@@ -1,13 +1,3 @@
-
-# Changelog
-
-### 0.2.3
-
-Eclipse Shelled
-http://sourceforge.net/apps/trac/shelled/ 
-
-Update site: https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update
-
 # Roadmap
 
 ### 0.3 (April-May 2013)
@@ -25,6 +15,10 @@ Update site: http://eclipse-color-theme.github.com/update
  
 add desired features here...
 
+### Configure to support JSON
+
+JSON is already supported via JS Editor, some automatic configuration needed. 
+
 # Researching
 
 Everything below is more like research, contribution needed
@@ -37,10 +31,6 @@ http://code.google.com/p/jsdoc-toolkit/  As of 27 June 2010 the JsDoc Toolkit Ve
 
 	npm install git://github.com/jsdoc3/jsdoc.git
 	jsdoc --debug
-	
-## Configure to support JSON
-
-JSON is already supported via JS Editor, some automatic configuration needed. 
 	
 ## JavaScript UML support
 
@@ -82,3 +72,15 @@ http://www.websequencediagrams.com/
 ### Jade alternatives
 
 [Natural Templating .html (like Thymeleaf) for Node.js](http://stackoverflow.com/questions/15652602/natural-templating-html-like-thymeleaf-for-node-js)
+
+
+# Changelog
+
+### 0.2.3
+
+Eclipse Shelled
+http://sourceforge.net/apps/trac/shelled/ 
+
+Update site: https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update
+
+
