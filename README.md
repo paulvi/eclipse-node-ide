@@ -2,7 +2,7 @@
 
 [Enide](http://en.wikipedia.org/wiki/Enide): will you love me forever?
 
-![nodeclipse-logo](nodeclipse-logo-rough.png) 
+![nodeclipse-enide-logo-rough.png](nodeclipse-enide-logo-rough.png) 
 
 Moved from [https://github.com/PaulVI/eclipse-node-ide](https://github.com/PaulVI/eclipse-node-ide)
  to [https://github.com/Nodeclipse/eclipse-node-ide](https://github.com/Nodeclipse/eclipse-node-ide) .
