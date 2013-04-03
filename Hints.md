@@ -34,7 +34,8 @@ Thank to George Pang for question.
 
 ## Connect Eclipse to GitHub issues
 
-Eclipse Juno 4.2.2 come with EGit and GitHub support, that includes Mylyn GitHub Connector
+Eclipse Juno 4.2.2 come with EGit and GitHub support, that includes
+ [Mylyn GitHub Connector](http://marketplace.eclipse.org/content/github-mylyn-connector).
 
 ![Mylyn-Add-Task-Repository.png](Pictures/Mylyn-Add-Task-Repository.png)
 
