@@ -113,9 +113,7 @@ You can do whatever you want with this projects as long as you keep this license
 
 Current version is 0.2, the same as [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/).
 New project development home is [Nodeclipse organization](https://github.com/Nodeclipse/)
-You can help by developing plugins, or proposing components to use.
-
-Node.js framework developers, please write us, if you want Eclipse Node IDE to support your framework.
+You can help by developing used plugins, or proposing new plugins/components.
 
 <!--
 DONE:
@@ -148,6 +146,8 @@ Should you report a [bug](https://github.com/PaulVI/eclipse-node-ide/issues), pl
 
 Eclipse Node.js IDE (Enide) by [Paul Verest](mailto:paul.verest@live.com?subject=Enide - Question
 &body=I have pressed link in README.md&attachment="c:\a.bmp")
+
+**Node.js framework developers, please help us to support your framework with Nodeclipse and Eclipse Node.js IDE.**
 
 If you want to contribute and actively work together, then [email](mailto:paul.verest@live.com?subject=Enide - Development
 &body=I want to contribute to Eclipse Node.js IDE&attachment="c:\a.bmp")  
