@@ -2,15 +2,14 @@
 
 ## Select JVM for Eclipse instance
 
-Add -vm opriotn in [eclipse.ini](http://wiki.eclipse.org/Eclipse.ini), that is in Eclipse folder.
+Add -vm opriotn in [eclipse.ini](http://wiki.eclipse.org/Eclipse.ini), that is in Eclipse folder. Quote:
 
-Note the format of the -vm option - it is important to be exact:
+	Note the format of the -vm option - it is important to be exact:
+    	The -vm option and its value (the path) must be on separate lines.
+    	The value must be the full absolute or relative path to the Java executable, not just to the Java home directory.
+    	The -vm option must occur before the -vmargs option, since everything after -vmargs is passed directly to the JVM. 
 
-    The -vm option and its value (the path) must be on separate lines.
-    The value must be the full absolute or relative path to the Java executable, not just to the Java home directory.
-    The -vm option must occur before the -vmargs option, since everything after -vmargs is passed directly to the JVM. 
-
-Example
+Example:
 
 	...
 	-vm

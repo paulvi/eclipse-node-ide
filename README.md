@@ -12,7 +12,7 @@ Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)
 ## Eclipse Node IDE
 
 [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide) is set of plugins for Eclipse IDE to help you with Node.js development.
-The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(sources)](https://github.com/tomotaro1065/nodeclipse),
+The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(sources)](https://github.com/Nodeclipse/nodeclipse-1),
  that is responsible for creation and debugging of Node.js applications.
 
 ## Features
@@ -27,17 +27,18 @@ Check out [great article](http://www.tomotaro1065.com/nodeclipse/)
  and [watch video](http://tomotaro1065.github.com/nodeclipse/index2.htm).
  (Go to 2:00 time to skip installation and see how to work within Eclipse.)  
  
-See also Hints.md for
+See also [Hints.md](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md#hints) for
 
-* JSON Editor
-* Launch npm
-* Connect Eclipse to GitHub issues 
+* [JSON Editor](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md#json-editor)
+* [Launch npm](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md#launch-npm)
+* [Update several Git repositories at once](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md#update-several-git-repositories-at-once)
+* [Connect Eclipse to GitHub issues](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md#connect-eclipse-to-github-issues) 
 
 ## Installation
 
 ### In a few words
 
-Just import "EclipseNodeIDE-x.x.p2f" file [provided](https://raw.github.com/PaulVI/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f).  
+Just import "EclipseNodeIDE-x.x.p2f" file [provided](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f).  
 Also can be downloaded from Eclipse Marketplace [here](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide).
 
 File -> Import \ Install Software Items from File
@@ -139,7 +140,7 @@ http://stackoverflow.com/privileges/create-tags
 * Why do you? -- the mailing list!
 * When will you? -- the mailing list! 
 
-Should you report a [bug](https://github.com/PaulVI/eclipse-node-ide/issues), please include the following:
+Should you report a [bug](https://github.com/Nodeclipse/eclipse-node-ide/issues), please include the following:
 
 * Eclipse version number (like 4.2.2 or 3.8.0)
 * A detailed description of the steps necessary to reproduce the problem.
