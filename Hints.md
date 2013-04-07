@@ -1,5 +1,25 @@
 # Hints
 
+## Select JVM for Eclipse instance
+
+Add -vm opriotn in [eclipse.ini](http://wiki.eclipse.org/Eclipse.ini), that is in Eclipse folder.
+
+Note the format of the -vm option - it is important to be exact:
+
+    The -vm option and its value (the path) must be on separate lines.
+    The value must be the full absolute or relative path to the Java executable, not just to the Java home directory.
+    The -vm option must occur before the -vmargs option, since everything after -vmargs is passed directly to the JVM. 
+
+Example
+
+	...
+	-vm
+	C:\Program Files\Java\jdk1.7.0_11\bin\javaw.exe
+	-vmargs
+	-Xms40m
+	-Xmx512m
+
+
 ## JSON Editor
 
 ![Eclipse-Configure-JSON-Association.PNG](Pictures/Eclipse-Configure-JSON-Association.PNG)
