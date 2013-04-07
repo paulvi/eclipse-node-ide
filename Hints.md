@@ -51,7 +51,11 @@ See also [npm documentation](https://npmjs.org/doc/)
 
 Thank to George Pang for question.
 
-## Update several Git repositories at once
+## Git
+
+Press Ctrl+Shift+3 to commit current file or file set.
+
+### Update several Git repositories at once
 
 Just select them with mouse (holding Ctrl)  
 Right-click any of them Team -> Pull  
@@ -59,7 +63,7 @@ See result.
 
 ![EGit-update-several-repositories-at-oce.png](Pictures/EGit-update-several-repositories-at-oce.png)
 
-## Connect Eclipse to GitHub issues
+### Connect Eclipse to GitHub issues
 
 Eclipse Juno 4.2.2 come with EGit and GitHub support, that includes
  [Mylyn GitHub Connector](http://marketplace.eclipse.org/content/github-mylyn-connector).
