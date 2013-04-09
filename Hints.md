@@ -32,11 +32,16 @@ In Eclipse ecosystem there are a lot of JavaScript Editors. Some examples:
 ### JavaScript Code Assist
 
 Eclipse standard [JavaScript Development Tools (JSDT)](http://www.eclipse.org/webtools/jsdt/)
+ ([wiki](http://wiki.eclipse.org/JSDT))
  already includes JavaScript Editor with Code/Content Assist function.  
  
 Go to Preferences->JavaScript->Editor->Content Assist 
 
 ![Eclipse-Preferences-JavaScript-Editor-ContentAssist.png](Pictures/Eclipse-Preferences-JavaScript-Editor-ContentAssist.png)
+
+Code assist for some libraries and framework is provided as extensions, for example
+[Code assist for jQuery](http://marketplace.eclipse.org/content/jsdt-jquery).
+
 
 ### JSON Editor
 
