@@ -18,8 +18,27 @@ Example:
 	-Xms40m
 	-Xmx512m
 
+## Editors
 
-## JSON Editor
+### JavaScript Editors
+
+In Eclipse ecosystem there are a lot of JavaScript Editors. Some examples:
+
+- JSDT project
+- VJET project
+- Nodeclipse ships with it'own Node Editor and ...
+- JS Editor (from Chromium project)
+
+### JavaScript Code Assist
+
+Eclipse standard [JavaScript Development Tools (JSDT)](http://www.eclipse.org/webtools/jsdt/)
+ already includes JavaScript Editor with Code/Content Assist function.  
+ 
+Go to Preferences->JavaScript->Editor->Content Assist 
+
+![Eclipse-Preferences-JavaScript-Editor-ContentAssist.png](Pictures/Eclipse-Preferences-JavaScript-Editor-ContentAssist.png)
+
+### JSON Editor
 
 ![Eclipse-Configure-JSON-Association.PNG](Pictures/Eclipse-Configure-JSON-Association.PNG)
 
