@@ -78,6 +78,11 @@ You need to add at least 1 query
 
 ![Mylyn-Result.png](Pictures/Mylyn-Result.png)
 
+See more at [GitHub:teach](http://teach.github.com/articles/github-issues-cheatsheet/):
+
+- [Tips and Tricks: Using Eclipse with GitHub(http://eclipsesource.com/blogs/2012/08/28/tips-and-tricks-using-eclipse-with-github/)  by Ian Bull
+- [GitHub Eclipse page](http://eclipse.github.com/)
+
 ## Shell script support
 
 Install Eclipse-addons.p2f
