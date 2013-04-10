@@ -39,6 +39,12 @@ Go to Preferences->JavaScript->Editor->Content Assist
 
 ![Eclipse-Preferences-JavaScript-Editor-ContentAssist.png](Pictures/Eclipse-Preferences-JavaScript-Editor-ContentAssist.png)
 
+> **Inferred Types**
+> 
+> In order for some JDT-based functionality (such as code completion) to work correctly,
+> class type information needs to be available. This information is not available in JavaScript,
+> but it can be inferred in many cases.
+
 Code assist for some libraries and framework is provided as extensions, for example
 [Code assist for jQuery](http://marketplace.eclipse.org/content/jsdt-jquery).
 
