@@ -15,7 +15,8 @@ Is scheduled to come together with NodeEclipse 0.3
 [EasyShell](http://marketplace.eclipse.org/content/easyshell)
 Update site: <code>http://pluginbox.sourceforge.net</code>
 Some problem with install from China (Sf.net is noo slow)
-  
+
+[YEdit](http://marketplace.eclipse.org/content/yedit) is an Eclipse editor for editing YAML files
 
 ## Next
 
