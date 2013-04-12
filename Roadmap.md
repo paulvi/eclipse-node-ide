@@ -6,6 +6,17 @@ Is scheduled to come together with NodeEclipse 0.3
 
 ### 0.4 (TBD)
 
+## Good plugins
+
+[StartExplorer](http://marketplace.eclipse.org/node/641101)
+
+![StartExplorer.png](Pictures/Plugins/StartExplorer.png) 
+
+[EasyShell](http://marketplace.eclipse.org/content/easyshell)
+Update site: <code>http://pluginbox.sourceforge.net</code>
+Some problem with install from China (Sf.net is noo slow)
+  
+
 ## Next
 
 Eclipse color theme:
