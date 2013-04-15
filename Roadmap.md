@@ -1,14 +1,15 @@
 # Roadmap
 
-### 0.3 (April-May 2013)
+### 0.3 (April 15th 2013)
 
-Is scheduled to come together with NodeEclipse 0.3
+together with NodeEclipse 0.3 (April 13th)
 
 ### 0.4 (TBD)
 
 ## Good plugins
 
 [StartExplorer](http://marketplace.eclipse.org/node/641101)
+Update site: <code>http://basti1302.github.com/startexplorer/update/</code>
 
 ![StartExplorer.png](Pictures/Plugins/StartExplorer.png) 
 
