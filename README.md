@@ -38,7 +38,7 @@ See also [Hints.md](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/H
 
 ### In a few words
 
-Just import "EclipseNodeIDE-x.x.p2f" file [provided](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f).  
+Just import "ENodeIDE.p2f" file [provided](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/ENodeIDE.p2f).  
 Also can be downloaded from Eclipse Marketplace [here](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide).
 
 File -> Import \ Install Software Items from File
