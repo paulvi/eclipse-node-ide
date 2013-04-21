@@ -48,6 +48,12 @@ Go to Preferences->JavaScript->Editor->Content Assist
 Code assist for some libraries and framework is provided as extensions, for example
 [Code assist for jQuery](http://marketplace.eclipse.org/content/jsdt-jquery).
 
+### CoffeeScript Editor
+
+Use [CoffeeScriptSet.p2f](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/CoffeeScriptSet.p2f) to quickly install.
+
+![CoffeeScriptEditor.png](Pictures/CoffeeScriptEditor.png)
+
 
 ### JSON Editor
 
