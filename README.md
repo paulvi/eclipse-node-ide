@@ -59,7 +59,9 @@ that contains Eclipse web tools.
 
 * [Eclipse for Testers](http://www.eclipse.org/downloads/packages/eclipse-testers/junosr2),
  the smallest Eclipse distribution, just 95 MB.
-* [Spring Tool Suite (STS)](http://www.springsource.org/sts) 3.2.0.RELEASE )
+* [Spring Tool Suite (STS)](http://www.springsource.org/sts) 3.2.0.RELEASE
+* See [Tested platforms](https://github.com/Nodeclipse/nodeclipse-blog#tested-platforms)
+ )
 
 ![Eclipse-Welcome.png](Pictures/Eclipse-Welcome.png) 
 
@@ -113,7 +115,7 @@ You can do whatever you want with this projects as long as you keep this license
 
 ## Status
 
-Current version is 0.2, the same as [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/).
+Current version is 0.3, the same as [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/).
 New project development home is [Nodeclipse organization](https://github.com/Nodeclipse/)
 You can help by developing used plugins, or proposing new plugins/components.
 
