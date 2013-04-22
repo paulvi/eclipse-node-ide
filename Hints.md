@@ -3,7 +3,7 @@
 ## Aptana Studio
 
 When installing in Aptana Studio, install also [Eclipse Color Theme](http://marketplace.eclipse.org/content/eclipse-color-theme).
- Change theme to Roboticket or other white background.
+ Change theme to [Roboticket](http://eclipsecolorthemes.org/?view=theme&id=93) or other white background.
 Window->Preferences->General->Appearance->Color Theme
 
 ![Aptana-with-Nodeclipse.png](Pictures/Aptana-with-Nodeclipse.png)
