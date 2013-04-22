@@ -1,5 +1,15 @@
 # Hints
 
+## Aptana Studio
+
+When installing in Aptana Studio, install also [Eclipse Color Theme](http://marketplace.eclipse.org/content/eclipse-color-theme).
+ Change theme to Roboticket or other white background.
+Window->Preferences->General->Appearance->Color Theme
+
+![Aptana-with-Nodeclipse.png](Pictures/Aptana-with-Nodeclipse.png)
+
+See Issue https://github.com/Nodeclipse/nodeclipse-1/issues/15 Support black background color schemes.
+
 ## Select JVM for Eclipse instance
 
 Add -vm opriotn in [eclipse.ini](http://wiki.eclipse.org/Eclipse.ini), that is in Eclipse folder. Quote:
