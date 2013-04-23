@@ -87,9 +87,20 @@ After installation you have more icons in Help -> About Eclipse
 
 ![Eclipse-About.png](Pictures/Eclipse-About-2.png)
 
+## Configuration
+
+Some recommended configuration:
+
+Goto Window->Preferences 
+
+General select Show heap status  
+General->Workspace -> Text file encoding select other UTF-8  
+(if Eclipse 4.x Chrome Theme (Optional) installed)  
+General->Appearance ->Theme select Jeeeyul's themes - Chrome Theme, restart Eclipse  
+
 ## Usage in pictures
 
-Switch to Node perspective (e.g. Window -> Open Perspective -> Other ...)
+Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node)
 
 ![Eclipse-Node-Perspective.png](Pictures/Eclipse-Node-Perspective.png)
 
