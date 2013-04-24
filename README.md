@@ -54,7 +54,7 @@ Just use <code>repository location=</code> value as update site in Help -> Insta
 
 ### Detailed
 
-([Skip to Configuration](https://github.com/Nodeclipse/eclipse-node-ide/#configuration)) 
+([Skip to Configuration](https://github.com/Nodeclipse/eclipse-node-ide#configuration)) 
 
    1) Get latest Eclipse from [http://www.eclipse.org/downloads/](http://www.eclipse.org/downloads/).  
 Recommended is [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr2)
