@@ -41,6 +41,10 @@ See also [Hints.md](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/H
 Just import "ENodeIDE.p2f" file [provided](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/ENodeIDE.p2f).  
 Also can be downloaded from Eclipse Marketplace [here](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide).
 
+Firefox: <kbd>File</kbd> <kbd>Save Page As</kbd>  
+Google Chrome: <kbd>Ctrl + S</kbd>  
+Internet Explorer: <kbd>File</kbd> <kbd>Save as</kbd>
+
 File -> Import \ Install Software Items from File
 
 ![File-Provided.png](Pictures/File-Provided.png)
