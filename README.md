@@ -12,8 +12,8 @@ Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)
 ## Eclipse Node IDE
 
 [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide) is set of plugins for Eclipse IDE to help you with Node.js development.
-The core plugin is [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/) [(sources)](https://github.com/Nodeclipse/nodeclipse-1),
- that is responsible for creation and debugging of Node.js applications.
+The core plugin is [Nodeclipse-1](http://www.nodeclipse.org/) [(sources)](https://github.com/Nodeclipse/nodeclipse-1),
+ that is responsible for creation and debugging of Node.js applications. Other plugins list you can see during installation or below.
 
 ## Features
 
