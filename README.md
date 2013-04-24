@@ -48,7 +48,9 @@ File -> Import \ Install Software Items from File
 Note: if it fails for any reason, you can still install plugins that you need one by one.
 Just use <code>repository location=</code> value as update site in Help -> Install New Software. 
 
-### Detailed 
+### Detailed
+
+([Skip to Configuration](https://github.com/Nodeclipse/eclipse-node-ide/#configuration)) 
 
    1) Get latest Eclipse from [http://www.eclipse.org/downloads/](http://www.eclipse.org/downloads/).  
 Recommended is [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junosr2)
@@ -96,7 +98,12 @@ Goto Window->Preferences
 General select Show heap status  
 General->Workspace -> Text file encoding select other UTF-8  
 (if Eclipse 4.x Chrome Theme (Optional) installed)  
-General->Appearance ->Theme select Jeeeyul's themes - Chrome Theme, restart Eclipse  
+General->Appearance ->Theme select Jeeeyul's themes - Chrome Theme, restart Eclipse
+
+Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node)
+  
+Window -> Show View -> Other... -> Markdown -> Markdown HTML Preview  
+(Very useful when exploring <code>node_modules</code> folders) 
 
 ## Usage in pictures
 
@@ -173,8 +180,8 @@ QQ 908781544
 
 In case you plan to blog or tweet about the Eclipse Node.js IDE, please use the tag "#enide"
  in order to make it easier to find all the comments and pictures. Thanks a lot for telling the world about the project!  
-  | 请用#enide#标签微博一下。  
-  | Por favor, utilizar etiqueta #enide  
-  | ツイートする時は、＃enide タグを使用してください。   
-  | Bitte benutzen Sie tag #enide um zu twiten.
+  | 请用 ＃nodeclipse# #enide# 标签微博一下。  
+  | Por favor, utilizar etiqueta ＃nodeclipse #enide  
+  | ツイートする時は、＃nodeclipse ＃enide タグを使用してください。   
+  | Bitte benutzen Sie tag ＃nodeclipse #enide um zu twiten.
 
