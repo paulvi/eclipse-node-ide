@@ -9,6 +9,11 @@ Moved from [https://github.com/PaulVI/eclipse-node-ide](https://github.com/PaulV
 
 Check [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog) for latest updates.
 
+<script type="text/javascript">
+       url_site = 'http://marketplace.eclipse.org/node/775276';
+</script>
+<script src="http://marketplace.eclipse.org/sites/all/modules/custom/eclipse_drigg_external/js/button.js" type="text/javascript"></script>
+
 ## Eclipse Node IDE
 
 [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide) is set of plugins for Eclipse IDE to help you with Node.js development.
