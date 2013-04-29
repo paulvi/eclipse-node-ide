@@ -60,7 +60,8 @@ Code assist for some libraries and framework is provided as extensions, for exam
 
 ### CoffeeScript Editor
 
-Use [CoffeeScriptSet.p2f](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/CoffeeScriptSet.p2f) to quickly install.
+Use [CoffeeScriptSet.p2f](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/CoffeeScriptSet.p2f)
+to [quickly install](http://marketplace.eclipse.org/content/coffeescript-editor-quick-installer).
 
 ![CoffeeScriptEditor.png](Pictures/CoffeeScriptEditor.png)
 
