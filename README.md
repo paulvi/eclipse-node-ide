@@ -24,6 +24,10 @@ The core plugin is [Nodeclipse-1](http://www.nodeclipse.org/) [(sources)](https:
 
 ## Features
 
+Install all plugins for Node.js development in one sequence, with only one restart.
+
+Included plugins are:
+
 - Nodeclipse 0.3.1
 - Chrome Development Tools, fixed for debugging Node.js
 - MarkDown (*.md) Editor (Optional)
