@@ -98,6 +98,12 @@ See also [npm documentation](https://npmjs.org/doc/)
 
 Thank to George Pang for question.
 
+## Start Explorer or Shell
+
+Right-click folder in Project Explorer or selected path in an Editor, then
+
+![StartExplorer.png](Pictures/Plugins/StartExplorer.png)
+
 ## Git
 
 Press Ctrl+Shift+3 to commit current file or file set.
