@@ -24,9 +24,15 @@ The core plugin is [Nodeclipse-1](http://www.nodeclipse.org/) [(sources)](https:
 
 ## Features
 
-![Eclipse-Import-Install-NodeIDE.png](Pictures/Eclipse-Import-Install-NodeIDE.png)
+- Nodeclipse 0.3.1
+- Chrome Development Tools, fixed for debugging Node.js
+- MarkDown (*.md) Editor (Optional)
+- Eclipse 3.x Color Theme (Optional, recommended with Aptana)
+- Eclipse 4.x Chrome Theme (Optional)
+- JSHint Eclipse Integration (Optional)
+- StartExplorer (Optional)
 
-Shell Script support (see Hints.md)
+For Shell Script support (see Hints.md)
  
 ## Usage
 
