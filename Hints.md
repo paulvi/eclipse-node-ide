@@ -123,7 +123,9 @@ EGit will show error message if change conflict has happened. And Merging will s
 
 You can use Team -> Synchronize, to compare local git workspace and with git repository.
 
-Them you may select Replace With -> Branch, Tag, or Reference...
+![EGit-status-icons.png](Pictures/EGit-status-icons.png)
+
+Then you may select Replace With -> Branch, Tag, or Reference...
 
 ![EGit-replace-with-remote](Pictures/EGit-replace-with-remote.png) 
 
