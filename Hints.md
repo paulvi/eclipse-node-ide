@@ -116,6 +116,17 @@ See result.
 
 ![EGit-update-several-repositories-at-oce.png](Pictures/EGit-update-several-repositories-at-oce.png)
 
+### Conflict resolution
+
+When pulling, EGit (as any Git) does fetch then merge.  
+EGit will show error message if change conflict has happened. And Merging will stop.
+
+You can use Team -> Synchronize, to compare local git workspace and with git repository.
+
+Them you may select Replace With -> Branch, Tag, or Reference...
+
+![EGit-replace-with-remote](Pictures/EGit-replace-with-remote.png) 
+
 ### Connect Eclipse to GitHub issues
 
 Eclipse Juno 4.2.2 come with EGit and GitHub support, that includes
