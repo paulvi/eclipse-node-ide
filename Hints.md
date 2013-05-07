@@ -84,6 +84,11 @@ Now you can now open JSON files with the JavaScript editor (with syntax highligh
 
 ![Eclipse-Preferences-FileAssociations.png](Pictures/Eclipse-Preferences-FileAssociations.png)
 
+### Editor Minimap
+
+There is experimental support for minimap.
+
+![Nodeclipse-with-Minimap.png](Pictures/Nodeclipse-with-Minimap.png)
 
 ## Launch npm
 
