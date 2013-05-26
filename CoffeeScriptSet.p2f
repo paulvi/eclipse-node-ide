@@ -9,7 +9,8 @@ You can do whatever you want with this projects as long as you keep this license
 For example, email this file to friends or colleagues.
  Because this is all what is needed to install CoffeeScript Editor quickly.
 
-Usage: File -> Import \ Install Software Items from File, select this file location.
+Usage: (make sure file extension is .p2f)
+ File -> Import \ Install Software Items from File, select this file location on your device.
 
 Please use the #nodeclipse & #coffeescript tags to twit about.
 -->

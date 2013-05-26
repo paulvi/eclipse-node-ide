@@ -1,10 +1,6 @@
 # Roadmap
 
-### 0.3 (April 15th 2013)
-
-together with NodeEclipse 0.3 (April 13th)
-
-### 0.4 (TBD)
+follow Nodeclipse core, possibly add more plugins
 
 ## Good plugins
 
@@ -30,7 +26,7 @@ add desired features here...
 
 ### Configure to support JSON
 
-JSON is already supported via JS Editor, some automatic configuration needed. 
+- [v] JSON is already supported via JS Editor, some automatic configuration needed. 
 
 # Researching
 
