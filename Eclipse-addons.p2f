@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='2'>
-    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='0.12.0.201207240713'>
+  <ius size='3'>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse 3.x Color Theme' version='0.12.0.201207240713'>
       <repositories size='1'>
         <repository location='http://eclipse-color-theme.github.com/update'/>
       </repositories>
@@ -10,6 +10,11 @@
     <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.2'>
       <repositories size='1'>
         <repository location='https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update'/>
+      </repositories>
+    </iu>
+    <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer  Feature' version='1.4.1'>
+      <repositories size='1'>
+        <repository location='http://basti1302.github.com/startexplorer/update/'/>
       </repositories>
     </iu>
   </ius>
