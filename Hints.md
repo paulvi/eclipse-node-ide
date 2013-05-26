@@ -4,10 +4,12 @@
 
 ![Aptana-with-Nodeclipse.png](Pictures/Aptana-with-Nodeclipse.png)
 
-Before 0.4 was issue https://github.com/Nodeclipse/nodeclipse-1/issues/15 Support black background color schemes.
+Before 0.4 was issue [#15 Support black background color schemes](https://github.com/Nodeclipse/nodeclipse-1/issues/15).
 Could be walked around by installing [Eclipse Color Theme](http://marketplace.eclipse.org/content/eclipse-color-theme) 
  and changing theme to [Roboticket](http://eclipsecolorthemes.org/?view=theme&id=93) or other white background.
 Window->Preferences->General->Appearance->Color Theme
+
+When debugging, the issue [#15](https://github.com/Nodeclipse/nodeclipse-1/issues/15) is still present.
 
 ## Select JVM for Eclipse instance
 
