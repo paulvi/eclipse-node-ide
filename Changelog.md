@@ -1,5 +1,9 @@
 # Changelog
 
+### 0.4.1
+
+JSHInt 0.9.7.20130526-1111, NJSDT+NJSDoc option
+
 ## 0.4
 
 - Update to Nodeclipse 0.4
