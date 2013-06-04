@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--  
 [Enide - Eclipse Node.js IDE](https://github.com/Nodeclipse/eclipse-node-ide) 
-v0.4.1 (with Nodeclipse 0.4.0.201305191444; JSHInt 0.9.7.20130526-1111, NJSDT+NJSDoc option)
+v0.4.2 (with Nodeclipse 0.4.0.201305191444; JSHInt 0.9.7.20130526-1111, NJSDT+NJSDoc option; warn Kepler users)
 
 Copyright (C) 2013, by [Paul Verest](https://github.com/PaulVI/blog#blog) at [Funshion.com](http://www.funshion.com/english/index.html)
 
@@ -16,6 +16,16 @@ See also https://github.com/Nodeclipse/eclipse-node-ide/#configuration
 
 Marketplace http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide
 
+WARNING: There are 2 bug in Eclipse Kepler, that may make "File -> Import \ Install" usage not comfortable.
+In tis case use this file as information source for update site values, and use Help -> Install New Software...
+
+You can help by voting on these 2 bugs (you should be registered on eclipse.org and logged in).
+-	Bug 409685 - [Remediation] Eclipse 4.3 Kepler - Installation Remediation fails; no opt-out
+	https://bugs.eclipse.org/bugs/show_bug.cgi?id=409685
+-	Bug 409802 - [import/export] Installation Remediation DOES NOT respect selected item in File-> Import .. -> Install Software Items from File "Import Software Configuration" Dialog
+	https://bugs.eclipse.org/bugs/show_bug.cgi?id=409802
+
+	
 Please use the #nodeclipse & #enide tags to twit about.
 -->
 <?p2f version='1.0.0'?>
