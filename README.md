@@ -31,6 +31,7 @@ Included plugins are:
 - Nodeclipse 0.3.1
 - Chrome Development Tools, fixed for debugging Node.js
 - MarkDown (*.md) Editor (Optional)
+- GitHub Flavored Markdown (GFM) Viewer (Optional)
 - Eclipse 3.x Color Theme (Optional, recommended with Aptana)
 - Eclipse 4.x Chrome Theme (Optional)
 - JSHint Eclipse Integration (Optional)
