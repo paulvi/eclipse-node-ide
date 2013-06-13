@@ -135,6 +135,12 @@ Then you may select Replace With -> Branch, Tag, or Reference...
 
 ![EGit-replace-with-remote](Pictures/EGit-replace-with-remote.png) 
 
+### GitHub Flavored Markdown (GFM) Viewer
+
+See markdown .md files as they are on GitHub. Very useful when browsing `node_modules` folder. Version 1.0 is somewhat slow.
+
+![Eclipse-Node-IDE-Overview-0.4.3.png](Pictures/Eclipse-Node-IDE-Overview-0.4.3.png)
+
 ### Connect Eclipse to GitHub issues
 
 Eclipse Juno 4.2.2 come with EGit and GitHub support, that includes

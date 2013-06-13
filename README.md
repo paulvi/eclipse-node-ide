@@ -143,9 +143,13 @@ Alt+Shift+N (File -> New -> Project ..)
 
 ![Eclipse-New-Node-Project-Wizard-Express.png](Pictures/Eclipse-New-Node-Project-Wizard-Express.png)
 
-IDE overview
+### IDE overview
 
-![Eclipse-Node-IDE-Overview-2.png](Pictures/Eclipse-Node-IDE-Overview-2.png)
+Code assist, Outline, Markdown support  
+![Eclipse-Node-IDE-Overview-0.4.3.png](Pictures/Eclipse-Node-IDE-Overview-0.4.3.png)
+
+Debugging  
+![Nodeclipse-1-debugging.png](Pictures/Nodeclipse-1-debugging.png)
 
 ## License 
 
