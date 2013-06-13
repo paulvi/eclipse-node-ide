@@ -164,7 +164,7 @@ You can do whatever you want with this projects as long as you keep this license
 
 ## Status
 
-Current version is 0.3, the same as [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/).
+Current version is 0.4, the same as [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/).
 New project development home is [Nodeclipse organization](https://github.com/Nodeclipse/)
 You can help by developing used plugins, or proposing new plugins/components.
 
