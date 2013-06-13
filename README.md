@@ -123,6 +123,11 @@ General->Workspace -> Text file encoding select other UTF-8
 General->Appearance ->Theme select Jeeeyul's themes - Chrome Theme, restart Eclipse
 
 Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node)
+
+Window -> Show View -> Other... -> GFM Support -> GFM View  
+(Very useful when exploring <code>node_modules</code> folders) 
+  
+### Before 0.4
   
 Window -> Show View -> Other... -> Markdown -> Markdown HTML Preview  
 (Very useful when exploring <code>node_modules</code> folders) 
