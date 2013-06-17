@@ -36,6 +36,7 @@ Included plugins are:
 - Eclipse 4.x Chrome Theme (Optional)
 - JSHint Eclipse Integration (Optional)
 - StartExplorer (Optional)
+- RestClient Tool (Optional)
 
 For Shell Script support (see Hints.md)
  
