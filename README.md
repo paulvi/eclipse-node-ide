@@ -127,6 +127,8 @@ Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node
 
 Window -> Show View -> Other... -> GFM Support -> GFM View  
 (Very useful when exploring <code>node_modules</code> folders) 
+
+Window -> Show View -> Other... -> REST Client -> REST Client Tool
   
 ### Before 0.4
   
