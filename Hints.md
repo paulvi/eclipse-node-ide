@@ -72,7 +72,7 @@ to [quickly install](http://marketplace.eclipse.org/content/coffeescript-editor-
 ![Eclipse-Configure-JSON-Association.PNG](Pictures/Eclipse-Configure-JSON-Association.PNG)
 
 JSON means JavaScript Object Notation, so you just have to have any JavaScript editor 
-and associate the *.json files with it:
+and associate the *.json files with it (this is default since Nodeclipse 0.4):
 
     Window > Preferences
     General > Editors > File Associations
@@ -84,6 +84,10 @@ Now you can now open JSON files with the JavaScript editor (with syntax highligh
  use the formatter and set your favorite color theme with Eclipse Color Theme.
 
 ![Eclipse-Preferences-FileAssociations.png](Pictures/Eclipse-Preferences-FileAssociations.png)
+
+Alternatively, if you need/like good Outline, you can install JSON Editor plugin.
+
+![JSON-Editor.png](Pictures/JSON-Editor.png)
 
 ### Editor Minimap
 
