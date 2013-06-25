@@ -34,7 +34,7 @@ Please use the #nodeclipse #enide tags to twit about.
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='13'>
+  <ius size='14'>
     <iu id='org.nodeclipse.feature.group' name='Nodeclipse' version='0.4.0.201305191444'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/updates/'/>
