@@ -143,7 +143,7 @@ Then you may select Replace With -> Branch, Tag, or Reference...
 
 ### GitHub Flavored Markdown (GFM) Viewer
 
-See markdown .md files as they are on GitHub. Very useful when browsing `node_modules` folder. Version 1.0 is somewhat slow.
+See markdown .md files as they are on GitHub. Very useful when browsing `node_modules` folder. Minimum recommended version is 1.1.1 .
 
 ![Eclipse-Node-IDE-Overview-0.4.3.png](Pictures/Eclipse-Node-IDE-Overview-0.4.3.png)
 
@@ -153,8 +153,11 @@ To open GFM View right click any .md file and select <kbd>Show in GFM view</kbd>
 
 STS comes with EGit and GitHub support, that includes
  [Mylyn GitHub Connector](http://marketplace.eclipse.org/content/github-mylyn-connector).
+<div>
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147" class="drag">
-<img src="/sites/all/modules/custom/marketplace/images/installbutton.png"><div class="tooltip"><h3>Drag to Install!</h3>Drag to your running Eclipse workspace.</div></a> 
+<img src="/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+<div class="tooltip"><b>Drag to Install!</b> Drag to your running Eclipse workspace.</div>
+</div> 
 
 ![Mylyn-Add-Task-Repository.png](Pictures/Mylyn-Add-Task-Repository.png)
 
@@ -174,6 +177,8 @@ See more at [GitHub:teach](http://teach.github.com/articles/github-issues-cheats
 ## REST Client
 
 ![Rest-Client-View.png](Pictures/Rest-Client-View.png)
+
+This one has not been updated for a long while. [Sources are still on SVN](http://svn.codespot.com/a/eclipselabs.org/restclient-tool/).
 
 ## Shell script support
 
