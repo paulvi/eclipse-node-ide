@@ -95,6 +95,8 @@ There is experimental support for minimap.
 
 ![Nodeclipse-with-Minimap.png](Pictures/Nodeclipse-with-Minimap.png)
 
+(Only in Nodeclipse [NTS](http://www.nodeclipse.org/nts/), close when don't like)
+
 ## Launch npm
 
 1. (Switch to Node perspective)
@@ -145,10 +147,14 @@ See markdown .md files as they are on GitHub. Very useful when browsing `node_mo
 
 ![Eclipse-Node-IDE-Overview-0.4.3.png](Pictures/Eclipse-Node-IDE-Overview-0.4.3.png)
 
+To open GFM View right click any .md file and select <kbd>Show in GFM view</kbd>. (Since 1.1.1 in Enide 0.4.10)
+
 ### Connect Eclipse to GitHub issues
 
-Eclipse Juno 4.2.2 come with EGit and GitHub support, that includes
+STS comes with EGit and GitHub support, that includes
  [Mylyn GitHub Connector](http://marketplace.eclipse.org/content/github-mylyn-connector).
+<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147" class="drag">
+<img src="/sites/all/modules/custom/marketplace/images/installbutton.png"><div class="tooltip"><h3>Drag to Install!</h3>Drag to your running Eclipse workspace.</div></a> 
 
 ![Mylyn-Add-Task-Repository.png](Pictures/Mylyn-Add-Task-Repository.png)
 

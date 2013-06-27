@@ -114,7 +114,7 @@ After installation you have more icons in Help -> About Eclipse
 
 ## Configuration
 
-Some recommended configuration:
+Some recommended configuration (These steps are needed for every new workspace):
 
 Goto Window->Preferences 
 
@@ -129,6 +129,10 @@ Window -> Show View -> Other... -> GFM Support -> GFM View
 (Very useful when exploring <code>node_modules</code> folders) 
 
 Window -> Show View -> Other... -> REST Client -> REST Client Tool
+
+#### [NTS](http://www.nodeclipse.org/nts/) Only
+
+Window -> Show View -> Other... -> MiniMap -> MiniMap
   
 ### Before 0.4
   
@@ -162,6 +166,7 @@ Debugging
 ## License 
 
 Copyright (C) 2013, by [Paul Verest](https://github.com/PaulVI/blog#blog) at [Funshion.com](http://www.funshion.com/english/index.html)
+ for [Nodeclipse}(http://www.nodeclipse.org)
 
 You can do whatever you want with this projects as long as you keep this license notice.
 
@@ -169,7 +174,7 @@ You can do whatever you want with this projects as long as you keep this license
 
 Current version is 0.4, the same as [Nodeclipse-1](http://tomotaro1065.github.com/nodeclipse/).
 New project development home is [Nodeclipse organization](https://github.com/Nodeclipse/)
-You can help by developing used plugins, or proposing new plugins/components.
+You can help by [developing used plugins](http://github.com/nodeclipse/), or proposing new plugins/components.
 
 <!--
 DONE:
