@@ -155,7 +155,7 @@ STS comes with EGit and GitHub support, that includes
  [Mylyn GitHub Connector](http://marketplace.eclipse.org/content/github-mylyn-connector).
 <div>
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147" class="drag">
-<img src="/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
+<img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"></a>
 <div class="tooltip"><b>Drag to Install!</b> Drag to your running Eclipse workspace.</div>
 </div> 
 
