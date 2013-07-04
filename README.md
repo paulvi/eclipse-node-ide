@@ -166,7 +166,7 @@ Debugging
 ## License 
 
 Copyright (C) 2013, by [Paul Verest](https://github.com/PaulVI/blog#blog) at [Funshion.com](http://www.funshion.com/english/index.html)
- for [Nodeclipse}(http://www.nodeclipse.org)
+ for/within [Nodeclipse](http://www.nodeclipse.org)
 
 You can do whatever you want with this projects as long as you keep this license notice.
 
