@@ -9,11 +9,12 @@ Could be walked around by installing [Eclipse Color Theme](http://marketplace.ec
  and changing theme to [Roboticket](http://eclipsecolorthemes.org/?view=theme&id=93) or other white background.
 Window->Preferences->General->Appearance->Color Theme
 
-When debugging, the issue [#15](https://github.com/Nodeclipse/nodeclipse-1/issues/15) is still present.
+When debugging, the issue [#15](https://github.com/Nodeclipse/nodeclipse-1/issues/15) is still present, when Chromium Editor (JS Editor) is opened.
+For your own sources be sure to use Nodeclipse Editor.
 
 ## Select JVM for Eclipse instance
 
-Add -vm opriotn in [eclipse.ini](http://wiki.eclipse.org/Eclipse.ini), that is in Eclipse folder. Quote:
+Add -vm option in [eclipse.ini](http://wiki.eclipse.org/Eclipse.ini), that is in Eclipse folder. Quote:
 
 	Note the format of the -vm option - it is important to be exact:
     	The -vm option and its value (the path) must be on separate lines.
@@ -37,7 +38,7 @@ In Eclipse ecosystem there are a lot of JavaScript Editors. Some examples:
 
 - JSDT project
 - VJET project
-- Nodeclipse ships with it'own Node Editor and ...
+- Nodeclipse ships with it's own Node Editor and ...
 - JS Editor (from Chromium project)
 
 ### JavaScript Code Assist
@@ -62,7 +63,9 @@ Code assist for some libraries and framework is provided as extensions, for exam
 ### CoffeeScript Editor
 
 Use [CoffeeScriptSet.p2f](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/CoffeeScriptSet.p2f)
-to [quickly install](http://marketplace.eclipse.org/content/coffeescript-editor-quick-installer).
+to [quickly install](http://marketplace.eclipse.org/content/coffeescript-editor-quick-installer).  
+Warning: this plugin created by Adam Schmideg was not updated for a year.
+see [About CoffeeScript support in Nodeclipse](http://www.nodeclipse.org/2013/06/02/Coffee.html)
 
 ![CoffeeScriptEditor.png](Pictures/CoffeeScriptEditor.png)
 
