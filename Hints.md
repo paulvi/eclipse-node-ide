@@ -13,11 +13,10 @@ When debugging, the issue [#15](https://github.com/Nodeclipse/nodeclipse-1/issue
 For your own sources be sure to use Nodeclipse Editor.
 
 Aptana uses also cannot simply install Nodeclipse plugin, as Aptana will not resolute to get required (since 0.4) JSDT dependency.
-The solution is provided via Enide as NJSDT (alternative to JSDT),
+The solution is provided in [Enide](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide) is NJSDT (alternative to JSDT),
  or manually from `https://bitbucket.org/nexj/updatesite/raw/default` for NJSDT+NJSDoc (thanks to @johnpeb)  
-The solution is to install JSDT from Eclipse update site
-`http://download.eclipse.org/releases/juno` 
-`http://download.eclipse.org/releases/kepler`
+The solution is also to install JSDT from Eclipse update site
+`http://download.eclipse.org/releases/juno` or `http://download.eclipse.org/releases/kepler`
 
 ![Getting-JSDT.PNG](Pictures/Getting-JSDT.PNG)
 
