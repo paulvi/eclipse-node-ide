@@ -121,7 +121,8 @@ Goto Window->Preferences
 General select Show heap status  
 General->Workspace -> Text file encoding select other UTF-8  
 (if Eclipse 4.x Chrome Theme (Optional) installed)  
-General->Appearance ->Theme select Jeeeyul's themes - Chrome Theme, restart Eclipse
+General->Appearance ->Theme select Jeeeyul's themes - Chrome Theme, restart Eclipse  
+Team -> Git -> History : Check "Follow renames"  
 
 Switch to Node perspective (e.g. Window -> Open Perspective -> Other ... -> Node)
 
