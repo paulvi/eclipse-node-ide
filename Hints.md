@@ -20,7 +20,7 @@ The solution is also to install JSDT from Eclipse update site
 
 ![Getting-JSDT.PNG](Pictures/Getting-JSDT.PNG)
 
-Or you can take Ndeclipse NTS and add Aptana plugins.
+Or you can take Nodeclipse NTS and add Aptana plugins.
 
 ## Select JVM for Eclipse instance
 
