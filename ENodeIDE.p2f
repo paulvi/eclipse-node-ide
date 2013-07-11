@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--  
 [Enide - Eclipse Node.js IDE](https://github.com/Nodeclipse/eclipse-node-ide) 
-v0.4.10 (with Nodeclipse 0.4.0.201305191444; JSHInt 0.9.7.20130526-1111, NJSDT+NJSDoc option;
- warn Kepler users; GFM Viewer; RestClient; update description; JSON Editor; jQuery; GFM 1.1.1; Chrome theme 1.7.3.201306271239)
+v0.4.11 (with Nodeclipse 0.4.0.201305191444; JSHInt 0.9.7.20130526-1111, NJSDT+NJSDoc option;
+ warn Kepler users; GFM Viewer; RestClient; update description; JSON Editor; jQuery; GFM 1.1.1; Chrome theme 1.7.3.201306271239;
+ Eclipse QuickSearch; ShellEd)
 
 Copyright (C) 2013, by [Paul Verest](https://github.com/PaulVI/blog#blog) at [Funshion.com](http://www.funshion.com/english/index.html) within Nodeclipse
 
@@ -34,7 +35,7 @@ Please use the #nodeclipse #enide tags to twit about.
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='14'>
+  <ius size='16'>
     <iu id='org.nodeclipse.feature.group' name='Nodeclipse' version='0.4.0.201305191444'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/updates/'/>
@@ -58,6 +59,11 @@ Please use the #nodeclipse #enide tags to twit about.
     <iu id='net.jeeeyul.eclipse.themes.feature.feature.group' name='Eclipse 4 Chrome Theme (Optional)' version='1.7.3.201306271239'>
       <repositories size='1'>
         <repository location='https://raw.github.com/jeeeyul/eclipse-themes/master/net.jeeeyul.eclipse.themes.updatesite/'/>
+      </repositories>
+    </iu>
+    <iu id='org.springsource.ide.eclipse.commons.quicksearch.feature.feature.group' name='Eclipse Quicksearch (Optional) Ctrl+Shift+L' version='3.3.0.201307040632-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/release/TOOLS/update/e4.3/'/>
       </repositories>
     </iu>
     <iu id='org.eclipselabs.jsdt.jquery_feature.feature.group' name='JSDT jQuery Integration (Optional)' version='1.6.0'>
@@ -84,22 +90,27 @@ Please use the #nodeclipse #enide tags to twit about.
 	    <repositories size='1'>
 	      <repository location='https://googledrive.com/host/0B2imkYUgmO5lWnpXMEhkZWdsWkU/'/>
 	    </repositories>
-	  </iu>
-    <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer (Optional)' version='1.4.1'>
-      <repositories size='1'>
-        <repository location='http://basti1302.github.com/startexplorer/update/'/>
-    </repositories>
     </iu>
     <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='NJSDT (JSDT alternative when JSDT is not installed)' version='1.5.0.201304171754'>
        <repositories size='1'>
         <repository location='https://bitbucket.org/nexj/updatesite/raw/default'/>
        </repositories>
     </iu>
-    <iu id='com.nexj.njsdoc.feature.feature.group' name='NJSDoc library (only with NJSDT)' version='0.0.6.201304171754'>
+    <iu id='com.nexj.njsdoc.feature.feature.group' name='NJSDoc library (only with/require for NJSDT)' version='0.0.6.201304171754'>
       <repositories size='1'>
         <repository location='https://bitbucket.org/nexj/updatesite/raw/default'/>
       </repositories>
     </iu>
+    <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer (Optional)' version='1.4.1'>
+      <repositories size='1'>
+        <repository location='http://basti1302.github.com/startexplorer/update/'/>
+    </repositories>
+    </iu>
+    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd (Optional)' version='2.0.2'>
+	    <repositories size='1'>
+	      <repository location='https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update'/>
+	    </repositories>
+	  </iu>
     <iu id='code.google.restclient.tool.feature.feature.group' name='RestClient Tool (Optional)' version='1.0.3'>
       <repositories size='1'>
         <repository location='https://svn.codespot.com/a/eclipselabs.org/restclient-tool/trunk/eclipse/update/'/>

@@ -1,6 +1,17 @@
 # Hints
 
-## Aptana Studio
+## Eclipse Distributions
+
+You can get Nodeclipse plugin in any Eclipse-based IDE. Recommended are [standard Eclipse distributions](http://www.eclipse.org/downloads/)
+ or [Nodeclipse NTS](http://www.nodeclipse.org/nts/) for Windows (where it is already pre-installed).
+
+### Adobe Flex Builder
+
+Nodeclipse runs perfectly well inside Adobe Flex Builder
+
+![Flash-Builder.png](Pictures/Flash-Builder.png)
+
+### Aptana Studio
 
 ![Aptana-with-Nodeclipse.png](Pictures/Aptana-with-Nodeclipse.png)
 
@@ -20,7 +31,8 @@ The solution is also to install JSDT from Eclipse update site
 
 ![Getting-JSDT.PNG](Pictures/Getting-JSDT.PNG)
 
-Or you can take Nodeclipse NTS and add Aptana plugins.
+Or you can take [Nodeclipse NTS](http://www.nodeclipse.org/nts/) and add [Aptana plugins](http://aptana.com/downloads/start)
+ (Update Site URL: <http://download.aptana.com/studio3/plugin/install>).
 
 ## Select JVM for Eclipse instance
 
@@ -123,6 +135,12 @@ See also [npm documentation](https://npmjs.org/doc/)
 
 Thank to George Pang for question.
 
+## Quick Search
+
+Press <kbd>Ctrl+Shift+L<kbd> to open QuickSearch Dailog, where you can search anything anywhere superquick.
+
+![Eclipse-QuickSearch.png](Pictures/Eclipse-QuickSearch.png)
+
 ## Start Explorer or Shell
 
 Right-click folder in Project Explorer or selected path in an Editor, then
@@ -192,6 +210,6 @@ This one has not been updated for a long while. [Sources are still on SVN](http:
 
 ## Shell script support
 
-Install Eclipse-addons.p2f
+Included as option since 0.4.11
 
 ![Shell-script-support.PNG](Pictures/Shell-script-support.PNG)
