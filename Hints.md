@@ -137,7 +137,7 @@ Thank to George Pang for question.
 
 ## Quick Search
 
-Press <kbd>Ctrl+Shift+L<kbd> to open QuickSearch Dailog, where you can search anything anywhere superquick.
+Press <kbd>Ctrl+Shift+L</kbd> to open QuickSearch Dailog, where you can search anything anywhere superquick.
 
 ![Eclipse-QuickSearch.png](Pictures/Eclipse-QuickSearch.png)
 
