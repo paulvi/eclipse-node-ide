@@ -1,4 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- 
+see http://shelled.sourceforge.net/
+
+-->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
   <ius size='3'>
@@ -7,9 +11,9 @@
         <repository location='http://eclipse-color-theme.github.com/update'/>
       </repositories>
     </iu>
-    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.2'>
+    <iu id='net.sourceforge.shelled.feature.group' name='ShellEd' version='2.0.3'>
       <repositories size='1'>
-        <repository location='https://downloads.sourceforge.net/project/shelled/shelled/ShellEd%202.0.2/update'/>
+        <repository location='https://downloads.sourceforge.net/project/shelled/shelled/update'/>
       </repositories>
     </iu>
     <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer  Feature' version='1.4.1'>
