@@ -213,3 +213,6 @@ This one has not been updated for a long while. [Sources are still on SVN](http:
 Included as option since 0.4.11
 
 ![Shell-script-support.PNG](Pictures/Shell-script-support.PNG)
+
+<https://sourceforge.net/projects/shelled/>
+<http://shelled.sourceforge.net/>
