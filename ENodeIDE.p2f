@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--  
 [Enide - Eclipse Node.js IDE](https://github.com/Nodeclipse/eclipse-node-ide) 
-v0.4.12 (with Nodeclipse 0.4.0.201305191444; JSHInt 0.9.7.20130526-1111, NJSDT+NJSDoc option;
- warn Kepler users; GFM Viewer; RestClient; update description; JSON Editor; jQuery; GFM 1.1.1; Chrome theme 1.7.3.201306271239;
- Eclipse QuickSearch; ShellEd 2.0.3)
+v0.4.13 (with Nodeclipse 0.4.0.201305191444; JSHInt 0.9.7.20130526-1111, NJSDT+NJSDoc option;
+ warn Kepler users; GFM Viewer; RestClient; update description; JSON Editor; jQuery; GFM 1.1.1;
+ Eclipse QuickSearch; ShellEd 2.0.3; Chrome theme 1.7.4.201307160945)
 
-Copyright (C) 2013, by [Paul Verest](https://github.com/PaulVI/blog#blog) at [Funshion.com](http://www.funshion.com/english/index.html) within Nodeclipse
+Copyright (C) 2013, by [Paul Verest](http://eclipse-china.github.io/) at [Funshion.com](http://www.funshion.com/english/index.html) within Nodeclipse
 
 You can do whatever you want with this projects as long as you keep this license notice (MIT License).
 
 For example, email this file to friends or colleagues. Because this is all what is needed to start Eclipse Node.js IDE installation!
 
-WARNING: There are 2 bug in Eclipse Kepler, that may make "File -> Import \ Install" usage not comfortable.
-In this case use this file as information source for update site values, and use Help -> Install New Software... Please vote on Eclipse bugs, see below.
+WARNING: There are 2 bug in Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not comfortable.
+In this case use this file as information source for update site values, and use Help -> Install New Software... 
+Please vote on Eclipse bugs, see below.
 
 Usage: Save to local folder (Ctrl+S in most browsers)
  Make sure file extension is .p2f
@@ -56,7 +57,7 @@ Please use the #nodeclipse #enide tags to twit about.
 	      <repository location='http://eclipse-color-theme.github.com/update'/>
 	    </repositories>
     </iu>
-    <iu id='net.jeeeyul.eclipse.themes.feature.feature.group' name='Eclipse 4 Chrome Theme (Optional)' version='1.7.3.201306271239'>
+    <iu id='net.jeeeyul.eclipse.themes.feature.feature.group' name='Eclipse 4 Chrome Theme (Optional)' version='1.7.4.201307160945'>
       <repositories size='1'>
         <repository location='https://raw.github.com/jeeeyul/eclipse-themes/master/net.jeeeyul.eclipse.themes.updatesite/'/>
       </repositories>
