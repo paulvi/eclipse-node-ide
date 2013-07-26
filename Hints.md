@@ -216,3 +216,10 @@ Included as option since 0.4.11
 
 <https://sourceforge.net/projects/shelled/>
 <http://shelled.sourceforge.net/>
+
+## Keys
+
+Press <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>A</kbd> to ***Toggle block selection** (<kbd>option/alt</kbd>+<kbd>command</kbd>+<kbd>A</kbd> on Mac)
+
+Check current binding in Window->Preferences->General->Keys
+
