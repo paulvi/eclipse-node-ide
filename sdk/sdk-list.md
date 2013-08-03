@@ -8,7 +8,3 @@
 ### Commercial licenses
 
 [ScriptEclipse by Michael Bartl](http://marketplace.eclipse.org/content/scripteclipse)
-
-## Other tools
-
-http://www.palantir.com/labs/

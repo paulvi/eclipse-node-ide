@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--  
+Copyright (C) 2013, by [Paul Verest](http://eclipse-china.github.io/) within Nodeclipse
+
 [Enide - Eclipse Node.js IDE](https://github.com/Nodeclipse/eclipse-node-ide) 
-v0.4.17 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
+v0.4.20 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
  warn Kepler users; GFM Viewer; RestClient; update description; jQuery;
  Eclipse QuickSearch; ShellEd 2.0.3; Chrome theme 1.7.4.201307160945; GFM 1.2.1 new repo; JSHInt 0.9.8.20130728-00004;
- JSDT Kepler(actually not newer than NJSDT version); JSON Editor 0.9.7  )
+ JSDT Kepler(actually not newer than NJSDT version); JSON Editor 0.9.7;
+ CoffeeScipt & TypeScript Editors  )
 
-Copyright (C) 2013, by [Paul Verest](http://eclipse-china.github.io/) at [Funshion.com](http://www.funshion.com/english/index.html) within Nodeclipse
 
 You can do whatever you want with this projects as long as you keep this license notice (MIT License).
 
@@ -37,7 +39,7 @@ Please use the #nodeclipse #enide tags to twit about.
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='17'>
+  <ius size='19'>
     <iu id='org.nodeclipse.feature.group' name='Nodeclipse' version='0.4.0.201305191444'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/updates/'/>
@@ -68,7 +70,7 @@ Please use the #nodeclipse #enide tags to twit about.
         <repository location='http://dist.springsource.com/release/TOOLS/update/e4.3/'/>
       </repositories>
     </iu>
-    <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='JavaScript Development Tools' version='1.5.0.v201301022000-7H7DFhZFC7sReqSz-frflXk'>
+    <iu id='org.eclipse.wst.jsdt.feature.feature.group' name='JavaScript Development Tools - Kepler' version='1.5.0.v201301022000-7H7DFhZFC7sReqSz-frflXk'>
 	    <repositories size='1'>
 	      <repository location='http://download.eclipse.org/releases/kepler'/>
 	    </repositories>
@@ -121,6 +123,16 @@ Please use the #nodeclipse #enide tags to twit about.
     <iu id='code.google.restclient.tool.feature.feature.group' name='RestClient Tool (Optional)' version='1.0.3'>
       <repositories size='1'>
         <repository location='https://svn.codespot.com/a/eclipselabs.org/restclient-tool/trunk/eclipse/update/'/>
+      </repositories>
+    </iu>
+    <iu id='csep.feature.feature.group' name='CoffeeScript Editor (help needed with newer version)' version='0.2.2.201203211152'>
+      <repositories size='1'>
+        <repository location='http://coffeescript-editor.eclipselabs.org.codespot.com/hg/'/>
+      </repositories>
+    </iu>
+    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor (unstable, causes freezes, memory leaks)' version='1.0.0.v20130802-2232'>
+      <repositories size='1'>
+        <repository location='http://eclipse-update.palantir.com/eclipse-typescript/'/>
       </repositories>
     </iu>
   </ius>
