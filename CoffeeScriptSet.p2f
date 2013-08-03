@@ -9,6 +9,8 @@ You can do whatever you want with this projects as long as you keep this license
 For example, email this file to friends or colleagues.
  Because this is all what is needed to install CoffeeScript Editor quickly.
  
+The solution is merged into <a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">Enide</a> since 0.4.20. 
+ 
 WARNING: There are 2 bug in Eclipse Kepler, that may make "File -> Import \ Install" usage not comfortable.
 In this case use this file as information source for update site values, and use Help -> Install New Software... Please vote on Eclipse bugs, see below.
 
