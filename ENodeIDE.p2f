@@ -130,7 +130,7 @@ Please use the #nodeclipse #enide tags to twit about.
         <repository location='http://coffeescript-editor.eclipselabs.org.codespot.com/hg/'/>
       </repositories>
     </iu>
-    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor (unstable, causes freezes, memory leaks)' version='1.0.0.v20130802-2232'>
+    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor (not so stable, causes freezes, memory leaks)' version='1.0.0.v20130802-2232'>
       <repositories size='1'>
         <repository location='http://eclipse-update.palantir.com/eclipse-typescript/'/>
       </repositories>
