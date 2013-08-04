@@ -156,6 +156,10 @@ Alt+Shift+N (File -> New -> Project ..)
 
 ![Eclipse-New-Node-Project-Wizard-Express.png](Pictures/Eclipse-New-Node-Project-Wizard-Express.png)
 
+## Help
+
+The most up-to-date online help is at <https://github.com/Nodeclipse/org.nodeclipse.help/tree/master/contents>
+
 ### IDE overview
 
 Code assist, Outline, Markdown support  
