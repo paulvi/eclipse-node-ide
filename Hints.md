@@ -223,3 +223,9 @@ Press <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>A</kbd> to ***Toggle block select
 
 Check current binding in Window->Preferences->General->Keys
 
+From [Eclipse Help](http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-51.xhtml):
+
+- Use <kbd>Alt+Shift+W</kbd> to open Properties or other associated Views.
+
+- All text editors based on the Eclipse editor framework support editing functions, including moving lines up or down (Alt+Arrow Up and Alt+Arrow Down), copying lines (Ctrl+Alt+Arrow Up and Ctrl+Alt+Arrow Down), inserting a new line above or below the current line (Ctrl+Shift+Enter and Shift+Enter), and converting to lowercase or uppercase (Ctrl+Shift+Y and Ctrl+Shift+X).
+
