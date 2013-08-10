@@ -229,3 +229,15 @@ From [Eclipse Help](http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.
 
 - All text editors based on the Eclipse editor framework support editing functions, including moving lines up or down (Alt+Arrow Up and Alt+Arrow Down), copying lines (Ctrl+Alt+Arrow Up and Ctrl+Alt+Arrow Down), inserting a new line above or below the current line (Ctrl+Shift+Enter and Shift+Enter), and converting to lowercase or uppercase (Ctrl+Shift+Y and Ctrl+Shift+X).
 
+## Eclipse Standard 
+
+Eclipse Standard doesn't have HTML Editor included.
+
+In order to get HTML Editor 
+
+- for Kepler `http://download.eclipse.org/releases/kepler` update site, just select JSF Tools - Web Page Editor
+- for Juno `http://download.eclipse.org/releases/juno` update site, just select Web Page Editor
+
+http://download.eclipse.org/webtools/downloads/ is [not updated yet for Kepler](https://bugs.eclipse.org/bugs/show_bug.cgi?id=414373).
+
+![](Pictures/Eclipse-File-Assotiation.png)
