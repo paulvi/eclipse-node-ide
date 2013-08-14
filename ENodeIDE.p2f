@@ -4,11 +4,11 @@ Copyright (C) 2013, by [Paul Verest](http://eclipse-china.github.io/) within Nod
 You can do whatever you want with this projects as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) 
-v0.4.21 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
+v0.4.22 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
  warn Kepler users; GFM Viewer; RestClient; update description; jQuery;
  Eclipse QuickSearch; ShellEd 2.0.3; Chrome theme 1.7.4.201307160945; GFM 1.2.1 new repo;
  JSDT Kepler(actually not newer than NJSDT version); JSON Editor 0.9.7;
- CoffeeScipt & TypeScript Editors; JSHInt 0.9.8.20130728-0004  )
+ CoffeeScipt & TypeScript Editors; JSHInt 0.9.8.20130728-0004; Git Addon; PLugins List  )
 
 
 WARNING: There are 2 bug in Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not comfortable.
@@ -39,7 +39,7 @@ Please use the #nodeclipse #enide tags to twit about.
 -->
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
-  <ius size='19'>
+  <ius size='21'>
     <iu id='org.nodeclipse.feature.group' name='Nodeclipse' version='0.4.0.201305191444'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/updates/'/>
@@ -133,6 +133,16 @@ Please use the #nodeclipse #enide tags to twit about.
     <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor (not so stable, causes freezes, memory leaks)' version='1.0.0.v20130802-2232'>
       <repositories size='1'>
         <repository location='http://eclipse-update.palantir.com/eclipse-typescript/'/>
+      </repositories>
+    </iu>
+    <iu id='gitaddon.feature.feature.group' name='Nodeclipse Git Addon' version='0.1.0.20130807-1611'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/git/addon/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/pluginslist/'/>
       </repositories>
     </iu>
   </ius>
