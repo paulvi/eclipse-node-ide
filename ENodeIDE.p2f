@@ -15,10 +15,9 @@ v0.4.24 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
 
 WARNING: There are 2 bug in Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not comfortable.
 In this case use this file as information source for update site values, and use Help -> Install New Software... 
- or use Nodeclipse Plugins List plugin for drag-and-drop installation.
+ or use Nodeclipse Plugins List plugin for drag-and-drop installation ( http://www.nodeclipse.org/updates/pluginslist/ ).
 Please vote on Eclipse bugs, see below. Download Eclipse with plugins included from
 http://sourceforge.net/projects/nodeclipse/files/
-Other options is to install Nodeclipse Plugins List http://www.nodeclipse.org/updates/pluginslist/ and use it to install plugins.
 
 Usage: Save to local folder (Ctrl+S in most browsers)
  Make sure file extension is .p2f
@@ -140,7 +139,7 @@ Please use the #nodeclipse #enide tags to twit about.
         <repository location='http://www.nodeclipse.org/coffeescript/repository/'/>
       </repositories>
     </iu>
-    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor (not so stable, causes freezes, memory leaks)' version='1.0.0.v20130802-2232'>
+    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor (not so stable, causes freezes, memory leaks, but in active development)' version='1.0.0.v20130802-2232'>
       <repositories size='1'>
         <repository location='http://eclipse-update.palantir.com/eclipse-typescript/'/>
       </repositories>
