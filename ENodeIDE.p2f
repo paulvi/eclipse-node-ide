@@ -4,16 +4,18 @@ Copyright (C) 2013, by [Paul Verest](http://eclipse-china.github.io/) within Nod
 You can do whatever you want with this projects as long as you keep this license notice (MIT License).
 
 [Enide - Eclipse Node.js IDE](http://www.nodeclipse.org/enide) 
-v0.4.23 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
+v0.4.24 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
  warn Kepler users; GFM Viewer; RestClient; jQuery;
  Eclipse QuickSearch; ShellEd 2.0.3; Chrome theme 1.7.4.201307160945; GFM 1.2.1 new repo;
  JSDT Kepler(actually not newer than NJSDT version); JSON Editor 0.9.7;
  CoffeeScipt & TypeScript Editors; JSHInt 0.9.8.20130728-0004; Git Addon; PLugins List; update description;
- CoffeeScript Editor 0.3.0 in new repo   )
+ CoffeeScript Editor 0.3.0 in new repo;   
+ or use Nodeclipse Plugins List plugin for drag-and-drop installation)
 
 
 WARNING: There are 2 bug in Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not comfortable.
 In this case use this file as information source for update site values, and use Help -> Install New Software... 
+ or use Nodeclipse Plugins List plugin for drag-and-drop installation.
 Please vote on Eclipse bugs, see below. Download Eclipse with plugins included from
 http://sourceforge.net/projects/nodeclipse/files/
 Other options is to install Nodeclipse Plugins List http://www.nodeclipse.org/updates/pluginslist/ and use it to install plugins.
@@ -43,6 +45,11 @@ Please use the #nodeclipse #enide tags to twit about.
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
   <ius size='21'>
+    <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/pluginslist/'/>
+      </repositories>
+    </iu>
     <iu id='org.nodeclipse.feature.group' name='Nodeclipse' version='0.4.0.201305191444'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/updates/'/>
@@ -130,7 +137,7 @@ Please use the #nodeclipse #enide tags to twit about.
     </iu>
     <iu id='csep.feature.feature.group' name='CoffeeScript Editor (help needed with newer version)' version='0.3.0.201308170620'>
       <repositories size='1'>
-        <repository location='http://www.nodeclipse.org/coffeescript/repository'/>
+        <repository location='http://www.nodeclipse.org/coffeescript/repository/'/>
       </repositories>
     </iu>
     <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript Editor (not so stable, causes freezes, memory leaks)' version='1.0.0.v20130802-2232'>
@@ -141,11 +148,6 @@ Please use the #nodeclipse #enide tags to twit about.
     <iu id='gitaddon.feature.feature.group' name='Nodeclipse Git Addon' version='0.1.0.20130807-1611'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/git/addon/'/>
-      </repositories>
-    </iu>
-    <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='Nodeclipse Plugins List' version='0.1.0.20130811-1427'>
-      <repositories size='1'>
-        <repository location='http://www.nodeclipse.org/updates/pluginslist/'/>
       </repositories>
     </iu>
   </ius>
