@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--  
-CoffeeScript quick installer 0.3.0.201308170620
+CoffeeScript quick installer 0.3.0.201308191142
 
 Copyright (C) 2013, by [Paul Verest](http://eclipse-china.github.io/) within Nodeclipse http://www.nodeclipse.org
 
@@ -40,7 +40,7 @@ Please use the #nodeclipse & #coffeescript tags to twit about.
         <repository location='http://www.nodeclipse.org/updates/pluginslist/'/>
       </repositories>
     </iu>
-    <iu id='csep.feature.feature.group' name='CoffeeScript Editor (help needed with newer version)' version='0.3.0.201308170620'>
+    <iu id='csep.feature.feature.group' name='CoffeeScript Editor (help needed with newer version)' version='0.3.0.201308191142'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/coffeescript/repository/'/>
       </repositories>

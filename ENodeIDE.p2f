@@ -10,7 +10,7 @@ v0.4.24 (with Nodeclipse 0.4.0.201305191444; NJSDT+NJSDoc option;
  JSDT Kepler(actually not newer than NJSDT version); JSON Editor 0.9.7;
  CoffeeScipt & TypeScript Editors; JSHInt 0.9.8.20130728-0004; Git Addon; PLugins List; update description;
  CoffeeScript Editor 0.3.0 in new repo;   
- or use Nodeclipse Plugins List plugin for drag-and-drop installation)
+ or use Nodeclipse Plugins List plugin for drag-and-drop installation; 201308191142)
 
 
 WARNING: There are 2 bug in Eclipse 4.3 Kepler, that may make "File -> Import \ Install" usage not comfortable.
@@ -134,7 +134,7 @@ Please use the #nodeclipse #enide tags to twit about.
         <repository location='https://svn.codespot.com/a/eclipselabs.org/restclient-tool/trunk/eclipse/update/'/>
       </repositories>
     </iu>
-    <iu id='csep.feature.feature.group' name='CoffeeScript Editor (help needed with newer version)' version='0.3.0.201308170620'>
+    <iu id='csep.feature.feature.group' name='CoffeeScript Editor (help needed with newer version)' version='0.3.0.201308191142'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/coffeescript/repository/'/>
       </repositories>
